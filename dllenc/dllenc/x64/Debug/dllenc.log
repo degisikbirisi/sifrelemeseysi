@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+C:\Users\Bunjo\source\repos\dllenc\dllenc\dllmain.cpp(13,39): warning C4190: 'base64_encode' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+C:\Users\Bunjo\source\repos\dllenc\dllenc\dllmain.cpp(34,39): warning C4190: 'rot13' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+C:\Users\Bunjo\source\repos\dllenc\dllenc\dllmain.cpp(47,39): warning C4190: 'rot47' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+C:\Users\Bunjo\source\repos\dllenc\dllenc\dllmain.cpp(57,39): warning C4190: 'toHex' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+C:\Users\Bunjo\source\repos\dllenc\dllenc\dllmain.cpp(65,39): warning C4190: 'complexEncoding' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+     Creating library C:\Users\Bunjo\source\repos\dllenc\dllenc\x64\Debug\dllenc.lib and object C:\Users\Bunjo\source\repos\dllenc\dllenc\x64\Debug\dllenc.exp
+  dllenc.vcxproj -> C:\Users\Bunjo\source\repos\dllenc\dllenc\x64\Debug\dllenc.dll
